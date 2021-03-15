@@ -320,7 +320,7 @@ to{visibility:visible}}
 .leleplayer-mask{position:absolute;top:0;bottom:0;left:0;right:0;z-index:1;display:none}
 .leleplayer-mask.leleplayer-mask-show{display:block}
 .leleplayer-video-wrap{position:relative;background:#000;font-size:0;width:100%;height:100%}
-.leleplayer-video-wrap .leleplayer-video{width:100%;height:90%;display:none}
+.leleplayer-video-wrap .leleplayer-video{width:100%;height:100%;display:none}
 .leleplayer-video-wrap .leleplayer-video-current{display:block}
 .leleplayer-video-wrap .leleplayer-video-prepare{display:none}
 .leleplayer-info-panel{z-index:3;position:absolute;top: 35px;left: 15px;width:400px;background:rgba(28,28,28,.8);padding:10px;color: #99a2aa;font-size:12px;border-radius:2px;background-color: #222;opacity: 1;background: rgba(21,21,21,.9);border-radius: 2px;}
